@@ -1,7 +1,8 @@
 <?php
 
 $nome = "André Ricardo";
-echo $nome;
+
+var_dump($nome); //escreve na tela o tipo da variável e o tamanho
 
 ?>
 
