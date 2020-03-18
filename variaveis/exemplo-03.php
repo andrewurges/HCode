@@ -16,7 +16,6 @@ $nascimento = new DateTime();
 
 //Tipos resources e null
 $arquivo = fopen("exemplo-03.php", "r");
-
 $nulo = null;
 $vazio = "";
 
